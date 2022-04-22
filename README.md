@@ -31,11 +31,11 @@ Few examples of results you can see inside the visualization folder
 
 Roc Curve
 
-![roc curve](/visualizations/roc curve.png)
+![roc curve](https://github.com/BihterDass/hiv-drug-interaction-with-geometric-deep-learning/blob/master/visualizations/roc%20curve.png)
 
 Accurarcy
 
-![roc curve](https://github.com/BihterDass/hiv-drug-interaction-with-geometric-deep-learning/blob/master/visualizations/roc%20curve.png)
+![roc curve](https://github.com/BihterDass/hiv-drug-interaction-with-geometric-deep-learning/blob/master/visualizations/auc.png)
 F1 Score
 
 ![roc curve](https://github.com/BihterDass/hiv-drug-interaction-with-geometric-deep-learning/blob/master/visualizations/f1%20score.png)
