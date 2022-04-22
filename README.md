@@ -35,15 +35,14 @@ Roc Curve
 
 Accurarcy
 
-![roc curve](/visualizations/auc.png)
-
+![roc curve](https://github.com/BihterDass/hiv-drug-interaction-with-geometric-deep-learning/blob/master/visualizations/roc%20curve.png)
 F1 Score
 
-![roc curve](/visualizations/f1 score.png)
+![roc curve](https://github.com/BihterDass/hiv-drug-interaction-with-geometric-deep-learning/blob/master/visualizations/f1%20score.png)
 
 Drug Predictions
 
-![roc curve](/visualizations/drug results.png)
+![roc curve](https://github.com/BihterDass/hiv-drug-interaction-with-geometric-deep-learning/blob/master/visualizations/drug%20predictions.png)
 
 ## The second way is to make the project an isolated docker container and run it in a computer that docker installed.
 **Run following command**
